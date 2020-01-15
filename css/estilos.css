@@ -1,0 +1,33 @@
+@import url('https://fonts.googleapis.com/css?family=Anton|Baloo+Bhai|Pacifico&display=swap');
+body {
+   background-color: black;
+   }
+  .contenedor{ 
+    background: url('../images/fondo.jpg') #000;
+    background-position: center;
+    width: 70%;
+    height: 700px;
+    margin: auto;
+    padding: 50px;
+}
+.perfil{
+    width: 200px;
+    height: 200px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: 50px;
+    background: url('../images/julian1.jpg');
+    background-size: 200px;
+    border-radius: 100px;
+    border-style: solid;
+    border-color: white;
+    border-width: 5px;
+}
+h1{
+    font-family: 'Pacifico', cursive;
+    text-align: center;
+}
+h2{
+    font-family: 'Baloo Bhai', cursive;
+    text-align: center;
+}
